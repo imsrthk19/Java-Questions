@@ -1,5 +1,5 @@
 //Area of circle:
-public class ClassWork {
+public class HomeWork {
     public static void main(String[] args) {
         int radius = 5;
         double area = 3.14*radius*radius;
@@ -8,7 +8,7 @@ public class ClassWork {
 }
 *****************************************************************************
 //Simple Interest:
-public class ClassWork {
+public class HomeWork {
     public static void main(String[] args) {
         int pri = 2100;
         int rate=5;
@@ -19,7 +19,7 @@ public class ClassWork {
 }
 *******************************************************************************
 //Even or Odd Number:
-public class ClassWork {
+public class HomeWork {
     public static void main(String[] args) {
         int n=6;
         if (n%2==0) {
@@ -32,7 +32,7 @@ public class ClassWork {
     }
 *******************************************************************************
 //Temperature Conversion from celsius to Fahrenheit:
-public class ClassWork {
+public class HomeWork {
     public static void main(String[] args) {
         int celsius=0;
         int conversion = (celsius*(9/5))+32;
@@ -40,7 +40,7 @@ public class ClassWork {
     }
 *****************************************************************************
 //Find greatest among three numbers:
-public class JavaBasics {
+public class HomeWork {
     public static void main(String[] args) {
     int a=2;
     int b=9;
@@ -64,7 +64,7 @@ public class JavaBasics {
 }
 **********************************************************************************
 //Calculating grades:
-public class ClassWork {
+public class HomeWork {
     public static void main(String[] args) {
         int marks =80;
         if (marks >90){
